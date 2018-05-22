@@ -1,0 +1,7 @@
+{
+    "extends": ["react-app"],
+    "rules": {
+        "class-methods-use-this": 0,
+        "no-console": 1
+    }
+}
